@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: aa154cac9ee34490582a78be873cd79d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - actionBarCanvasPrefab: {fileID: 7603396614799531621, guid: b0cb11a03213e4810a318cceea0d6089, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
